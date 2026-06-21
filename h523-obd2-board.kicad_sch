@@ -12439,7 +12439,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 128.27 52.07 90)
 			(effects
 				(font
@@ -13691,7 +13691,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C25900"
 			(at 175.26 143.51 0)
 			(effects
 				(font
@@ -13770,7 +13770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C19666"
+		(property "LCSC" "C15849"
 			(at 100.33 147.32 0)
 			(effects
 				(font
@@ -13849,7 +13849,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C25744"
+		(property "LCSC" "C25900"
 			(at 170.18 143.51 0)
 			(effects
 				(font
